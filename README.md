@@ -1,0 +1,1 @@
+# aurastore-engine\n\n**AuraStore: High-Performance Data Engine - High-performance, in-memory key-value data store in C++.**\n\n## Tech Stack\n- C++\n- POSIX Threads\n- Google Test\n
